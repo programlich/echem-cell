@@ -36,6 +36,7 @@ jobs:
       - name: Build with Gitbuilding
         run: |
           pip install gitbuilding
+          cd docs
           gitbuilding build-html
 
       - name: Setup Pages
