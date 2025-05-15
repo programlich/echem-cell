@@ -2,6 +2,8 @@
 
 ## What is GitBuilding
 
+
+
 GitBuilding is an OpenSource  project for documenting hardware projects with minimal
 effort, so you can stop writing and GitBuilding. GitBuilding is a python program that
 works on Windows, Linux, and MacOS. More information on the GitBuilding project, or how
